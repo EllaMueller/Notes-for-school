@@ -5,4 +5,10 @@ html{
 
 h1{
     color: #011936;
+    font-size: 170%;
+}
+
+h2{
+    color: #465362;
+    font-size: 140%;
 }
