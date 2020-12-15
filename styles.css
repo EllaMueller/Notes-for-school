@@ -12,3 +12,10 @@ h2{
     color: #465362;
     font-size: 140%;
 }
+
+a{
+    color: #ed254e;
+    text-decoration: underline;
+    text-decoration-color: #f9dc5c;
+    background-color: #b3beca;
+}
