@@ -1,21 +1,38 @@
 html{
-    background-color:#d6fcff;
+    background-color:#fff3e4;
     font-family: sans-serif;
 }
 
 h1{
-    color: #011936;
+    color: #535E6E;
     font-size: 170%;
 }
 
 h2{
-    color: #465362;
+    color: #647A7C;
     font-size: 140%;
 }
 
-a{
-    color: #ed254e;
-    text-decoration: underline;
-    text-decoration-color: #f9dc5c;
-    background-color: #b3beca;
-}
+.topnav {
+    background-color: #535E6E;
+    overflow: hidden;
+  }
+
+  .topnav a {
+    float: left;
+    color: #dedede;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: #dedede;
+    color: #535e6e;
+  }
+
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
