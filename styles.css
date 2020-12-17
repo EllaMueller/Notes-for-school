@@ -36,3 +36,22 @@ h2{
     background-color: #4CAF50;
     color: white;
   }
+
+  .topnav2{
+    overflow: hidden;
+  }
+
+  .topnav2 a{
+    float: left;
+    color: #dedede;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 13px;
+    background-color: #535e6e;
+    }
+
+    .topnav2 a:hover{
+      background-color: #dedede;
+      color: #535e6e;
+    }
