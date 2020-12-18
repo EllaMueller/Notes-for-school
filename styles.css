@@ -55,3 +55,12 @@ h2{
       background-color: #dedede;
       color: #535e6e;
     }
+
+    h3{
+      color: #647A7C;
+    }
+
+    .topnav3 a{
+      color: #647A7C;
+      text-decoration-thickness:strong;
+    }
